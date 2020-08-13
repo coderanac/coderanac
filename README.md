@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Carol github stats](https://github-readme-stats.vercel.app/api?username=coderanac&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanac)](https://github.com/kellyalves87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanac)](https://github.com/coderanac/github-readme-stats)
 
 My favorite repository: [Waffle-betizado](https://github.com/coderanac/waffle-betizado) :alembic:
 
