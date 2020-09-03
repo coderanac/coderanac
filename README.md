@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Carol github stats](https://github-readme-stats.vercel.app/api?username=coderanac&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanac)](https://github.com/coderanac/github-readme-stats)
-
 My favorite repository: [Waffle-betizado](https://github.com/coderanac/waffle-betizado) :alembic:
 
 Things I love:
@@ -21,3 +18,5 @@ Where to find me?
 [linkedin_badge]: https://img.shields.io/static/v1?style=flat&logo=linkedin&label=linkedin&color=0077B5&message=coderanac
 [codepen_badge]: https://img.shields.io/static/v1?style=flat&logo=codepen&label=codepen&color=000000&message=coderanac
 [medium_badge]: https://img.shields.io/static/v1?style=flat&logo=medium&label=Medium&color=12100E&message=coderanac
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanac)](https://github.com/coderanac/github-readme-stats)
