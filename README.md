@@ -19,4 +19,3 @@ Where to find me?
 [codepen_badge]: https://img.shields.io/static/v1?style=flat&logo=codepen&label=codepen&color=000000&message=coderanac
 [medium_badge]: https://img.shields.io/static/v1?style=flat&logo=medium&label=Medium&color=12100E&message=coderanac
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderanac)](https://github.com/coderanac/github-readme-stats)
